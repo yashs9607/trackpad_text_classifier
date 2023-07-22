@@ -1,8 +1,8 @@
 # trackpad_text_classifier
 Takes handwritten imput from trackpad and classifies into text
 
-
-!(https://github.com/yashs9607/trackpad_text_classifier/assets/81021436/29cc10da-dacb-48af-af8d-7e439f0958d9)
+[![Now in Android: 55]          // Title
+(https://github.com/yashs9607/trackpad_text_classifier/assets/81021436/29cc10da-dacb-48af-af8d-7e439f0958d9) //video link
 
 
 ## If you want to train it on your handwriting run gen_data.py to take samples.
