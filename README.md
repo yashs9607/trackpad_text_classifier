@@ -2,7 +2,7 @@
 Takes handwritten imput from trackpad and classifies into text
 [Screencast from 2023-07-28 16-18-45.webm](https://github.com/yashs9607/trackpad_text_classifier/assets/81021436/edd888e8-e701-47dd-8bf6-c2c7a968df5b)
 
-<video width=300 height=600 src="https://github.com/yashs9607/trackpad_text_classifier/assets/81021436/29cc10da-dacb-48af-af8d-7e439f0958d9"></video>
+<video width=300 height=600 src="https://github.com/yashs9607/trackpad_text_classifier/assets/81021436/edd888e8-e701-47dd-8bf6-c2c7a968df5b"></video>
 
 ## If you want to train it on your handwriting run gen_data.py to take samples.
   1. trackpad touch data is collected using libinput.
