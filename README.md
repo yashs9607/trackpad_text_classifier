@@ -13,7 +13,7 @@ https://github.com/yashs9607/trackpad_text_classifier/assets/81021436/854dcea5-8
 
 ## OR
 
-## Try the model directly from demo.[Screencast from 2023-07-28 16-18-45.webm](https://github.com/yashs9607/trackpad_text_classifier/assets/81021436/5e453851-83ef-4f85-b7ba-a721e0205efc)
+## Try the model directly from demo.
 
   1. demo uses model2_2.h5 weights which are trained on my data
   2. prediction will be out for previous input not the currently written word.
