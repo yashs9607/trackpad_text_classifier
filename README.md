@@ -1,7 +1,8 @@
 # trackpad_text_classifier
 Takes handwritten imput from trackpad and classifies into text.
 
-[trackpad demo.webm](https://github.com/yashs9607/trackpad_text_classifier/assets/81021436/b42997b5-3f81-43b9-b61a-e7e4a862cd59)
+
+https://github.com/yashs9607/trackpad_text_classifier/assets/81021436/854dcea5-86c8-4c50-9901-0b83cd8a24e5
 
 
 ## If you want to train it on your handwriting run gen_data.py to take samples.
