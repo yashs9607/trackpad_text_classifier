@@ -1,5 +1,6 @@
 # trackpad_text_classifier
 Takes handwritten imput from trackpad and classifies into text
+[Screencast from 2023-07-28 16-18-45.webm](https://github.com/yashs9607/trackpad_text_classifier/assets/81021436/edd888e8-e701-47dd-8bf6-c2c7a968df5b)
 
 <video width=300 height=600 src="https://github.com/yashs9607/trackpad_text_classifier/assets/81021436/29cc10da-dacb-48af-af8d-7e439f0958d9"></video>
 
@@ -11,7 +12,8 @@ Takes handwritten imput from trackpad and classifies into text
 
 ## OR
 
-## Try the model directly from demo.
+## Try the model directly from demo.[Screencast from 2023-07-28 16-18-45.webm](https://github.com/yashs9607/trackpad_text_classifier/assets/81021436/5e453851-83ef-4f85-b7ba-a721e0205efc)
+
   1. demo uses model2_2.h5 weights which are trained on my data
   2. prediction will be out for previous input not the currently written word.
 
